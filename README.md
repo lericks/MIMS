@@ -1,5 +1,5 @@
 # MIMS
-Medical Information Management System
+Medical Information Management System in Java Swing with MySQL Database
 
 This is a Java Swing Application with MySQL Database.
 The application attempts to digitise medical centres at learning institutions by providing a seamless information flow and storage.
